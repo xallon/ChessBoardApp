@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\ChessBoardApp\ChessBoardApp\obj\Debug\ChessBoardApp.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\ChessBoardApp\ChessBoardApp\obj\Debug\ChessBoardApp.Form1.resources
+C:\Users\yusuf\source\repos\ChessBoardApp\ChessBoardApp\obj\Debug\ChessBoardApp.Properties.Resources.resources
+C:\Users\yusuf\source\repos\ChessBoardApp\ChessBoardApp\obj\Debug\ChessBoardApp.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\ChessBoardApp\ChessBoardApp\obj\Debug\ChessBoardApp.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ChessBoardApp\ChessBoardApp\bin\Debug\ChessBoardApp.exe.config
+C:\Users\yusuf\source\repos\ChessBoardApp\ChessBoardApp\bin\Debug\ChessBoardApp.exe
+C:\Users\yusuf\source\repos\ChessBoardApp\ChessBoardApp\bin\Debug\ChessBoardApp.pdb
+C:\Users\yusuf\source\repos\ChessBoardApp\ChessBoardApp\obj\Debug\ChessBoardApp.exe
+C:\Users\yusuf\source\repos\ChessBoardApp\ChessBoardApp\obj\Debug\ChessBoardApp.pdb
